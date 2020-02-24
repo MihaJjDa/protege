@@ -1,0 +1,584 @@
+; Wed May 16 00:52:44 MSD 2018
+; 
+;+ (version "3.5")
+;+ (build "Build 663")
+
+([Puchkin2_Class0] of  %3AINSTANCE-ANNOTATION
+
+	(%3AANNOTATED-INSTANCE [Puchkin2_Class73])
+	(%3ACREATION-TIMESTAMP "2018.05.15 15:36:44.666 MSD")
+	(%3ACREATOR "danil"))
+
+([Puchkin2_Class10] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1987))
+
+([Puchkin2_Class10072] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1957)
+	(%D0%94%D0%B5%D0%BD%D1%8C 7)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 6))
+
+([Puchkin2_Class10073] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Краснодар")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class10074] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10072])
+	(%D0%98%D0%BC%D1%8F "Александр")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class50]
+		[Puchkin2_Class45]
+		[Puchkin2_Class44])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class9])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10073])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Витальевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Маршал"))
+
+([Puchkin2_Class10075] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1958)
+	(%D0%94%D0%B5%D0%BD%D1%8C 24)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 1))
+
+([Puchkin2_Class10076] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10077])
+	(%D0%98%D0%BC%D1%8F "Владимир")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class47]
+		[Puchkin2_Class51]
+		[Puchkin2_Class44]
+		[Puchkin2_Class45]
+		[Puchkin2_Class46])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class25])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10078])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Сергеевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Бегунов"))
+
+([Puchkin2_Class10077] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1959)
+	(%D0%94%D0%B5%D0%BD%D1%8C 25)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 3))
+
+([Puchkin2_Class10078] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Симферополь")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class10079] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10080])
+	(%D0%98%D0%BC%D1%8F "Владимир")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class44]
+		[Puchkin2_Class46]
+		[Puchkin2_Class45]
+		[Puchkin2_Class47]
+		[Puchkin2_Class51])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class25])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class27])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Владимирович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Шахрин"))
+
+([Puchkin2_Class10080] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1959)
+	(%D0%94%D0%B5%D0%BD%D1%8C 22)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 6))
+
+([Puchkin2_Class10081] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10082])
+	(%D0%98%D0%BC%D1%8F "Сергей")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class45]
+		[Puchkin2_Class44]
+		[Puchkin2_Class46]
+		[Puchkin2_Class47]
+		[Puchkin2_Class51])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class14])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class16])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Николаевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Чиграков"))
+
+([Puchkin2_Class10082] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1961)
+	(%D0%94%D0%B5%D0%BD%D1%8C 6)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 2))
+
+([Puchkin2_Class10083] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10084])
+	(%D0%98%D0%BC%D1%8F "Владимир")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B [Puchkin2_Class10085])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class14])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class27])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Александрович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Назимов"))
+
+([Puchkin2_Class10084] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1962)
+	(%D0%94%D0%B5%D0%BD%D1%8C 29)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 12))
+
+([Puchkin2_Class10085] of  %D0%A3%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D0%B5
+
+	(%D0%92%D0%B8%D0%B4+%D1%83%D0%B4%D0%B0%D1%80%D0%BD%D1%8B%D1%85 %D0%91%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0)
+	(%D0%9C%D0%B0%D1%80%D0%BA%D0%B0 "Барабан")
+	(%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C "Барабан"))
+
+([Puchkin2_Class10086] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10087])
+	(%D0%98%D0%BC%D1%8F "Яков")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class47]
+		[Puchkin2_Class51])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class72])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class33])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Вадимович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Цвиркунов"))
+
+([Puchkin2_Class10087] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1975)
+	(%D0%94%D0%B5%D0%BD%D1%8C 27)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 8))
+
+([Puchkin2_Class10090] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Истоки и производные")
+	(%3APAL-RANGE "(defrange ?g1 :FRAME Жанр)\n(defrange ?g2 :FRAME Жанр)")
+	(%3APAL-STATEMENT "(forall ?g1 \n        (forall ?g2\n                (and (=> (Истоки ?g1 ?g2)\n                         (Производные ?g2 ?g1))\n                     (=> (Производные ?g1 ?g2)\n                         (Истоки ?g2 ?g1)))))"))
+
+([Puchkin2_Class11] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Москва")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class12] of  %D0%96%D0%B0%D0%BD%D1%80
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class13])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class14])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class6])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Блюз-рок")
+	(%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5 [Puchkin2_Class7]))
+
+([Puchkin2_Class13] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1960))
+
+([Puchkin2_Class14] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class15])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B
+		[Puchkin2_Class12]
+		[Puchkin2_Class4])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class16])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Чиж & Co")
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class10081]
+		[Puchkin2_Class10083]))
+
+([Puchkin2_Class15] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1994))
+
+([Puchkin2_Class16] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Дзержинск")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "CCCР"))
+
+([Puchkin2_Class17] of  %D0%96%D0%B0%D0%BD%D1%80
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class18])
+	(%D0%98%D1%81%D1%82%D0%BE%D0%BA%D0%B8 [Puchkin2_Class73])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class19])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class6])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Рэпкор"))
+
+([Puchkin2_Class18] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1986))
+
+([Puchkin2_Class19] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B [Puchkin2_Class22])
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class20])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class17])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class21])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "25/17")
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class65]
+		[Puchkin2_Class69]))
+
+([Puchkin2_Class2] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%98%D0%BC%D1%8F "Михаил")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class44]
+		[Puchkin2_Class45]
+		[Puchkin2_Class46]
+		[Puchkin2_Class47])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class72])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Юрьевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Горшенев"))
+
+([Puchkin2_Class20] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 2002))
+
+([Puchkin2_Class21] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Омск")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "Россия"))
+
+([Puchkin2_Class22] of  %D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0 [Puchkin2_Class23])
+	(%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C "47:15")
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class17])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2 [Puchkin2_Class19])
+	(%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8 [Puchkin2_Class24])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Ева едет в Вавилон"))
+
+([Puchkin2_Class23] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 2017)
+	(%D0%94%D0%B5%D0%BD%D1%8C 14)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 9))
+
+([Puchkin2_Class24] of  %D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F
+
+	(%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%87%D0%B8%D0%BA [Puchkin2_Class22])
+	(%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C "3:54")
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Комната"))
+
+([Puchkin2_Class25] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class26])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B
+		[Puchkin2_Class12]
+		[Puchkin2_Class4])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class27])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Чайф")
+	(%D0%A0%D0%BE%D0%BA_%D0%BA%D0%BB%D1%83%D0%B1 [Puchkin2_Class28])
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class10076]
+		[Puchkin2_Class10079]))
+
+([Puchkin2_Class26] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1985))
+
+([Puchkin2_Class27] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Свердловск")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class28] of  %D0%A0%D0%BE%D0%BA-%D0%BA%D0%BB%D1%83%D0%B1
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class29])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class25])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class27])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Свердловский"))
+
+([Puchkin2_Class29] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1986)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 3))
+
+([Puchkin2_Class30] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1988))
+
+([Puchkin2_Class33] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Ленинград")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class34] of  %D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0 [Puchkin2_Class35])
+	(%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C "39:37")
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class73])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2 [Puchkin2_Class72])
+	(%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8 [Puchkin2_Class36])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Бунт на корабле"))
+
+([Puchkin2_Class35] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 2004)
+	(%D0%94%D0%B5%D0%BD%D1%8C 13)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 11))
+
+([Puchkin2_Class36] of  %D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F
+
+	(%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8 [Puchkin2_Class38])
+	(%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D1%81%D0%BB%D0%BE%D0%B2 [Puchkin2_Class2])
+	(%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%87%D0%B8%D0%BA [Puchkin2_Class34])
+	(%D0%94%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C "1:52")
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Бунт на корабле!"))
+
+([Puchkin2_Class38] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class39])
+	(%D0%98%D0%BC%D1%8F "Андрей")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class44]
+		[Puchkin2_Class45]
+		[Puchkin2_Class46]
+		[Puchkin2_Class47])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class33])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Сергеевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Князев"))
+
+([Puchkin2_Class39] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1973)
+	(%D0%94%D0%B5%D0%BD%D1%8C 6)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 2))
+
+([Puchkin2_Class4] of  %D0%96%D0%B0%D0%BD%D1%80
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class5])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class25])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class6])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Рок-н-ролл")
+	(%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5 [Puchkin2_Class73]))
+
+([Puchkin2_Class44] of  %D0%9D%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+
+	(%D0%A2%D0%B8%D0%BF %D0%91%D0%B0%D1%80%D0%B8%D1%82%D0%BE%D0%BD))
+
+([Puchkin2_Class45] of  %D0%9D%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+
+	(%D0%A2%D0%B8%D0%BF %D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80))
+
+([Puchkin2_Class46] of  %D0%9D%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+
+	(%D0%A2%D0%B8%D0%BF %D0%9F%D0%BE%D1%8D%D1%82))
+
+([Puchkin2_Class47] of  %D0%A1%D1%82%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9
+
+	(%D0%92%D0%B8%D0%B4+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0 %D0%90%D0%BA%D1%83%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0))
+
+([Puchkin2_Class48] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class49])
+	(%D0%98%D0%BC%D1%8F "Александр")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class47]
+		[Puchkin2_Class50]
+		[Puchkin2_Class51]
+		[Puchkin2_Class44]
+		[Puchkin2_Class45])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B
+		[Puchkin2_Class72]
+		[Puchkin2_Class53])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class52])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Владимирович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Леонтьев"))
+
+([Puchkin2_Class49] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1976)
+	(%D0%94%D0%B5%D0%BD%D1%8C 19)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 6))
+
+([Puchkin2_Class5] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1950))
+
+([Puchkin2_Class50] of  %D0%A1%D1%82%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9
+
+	(%D0%92%D0%B8%D0%B4+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0 %D0%91%D0%B0%D1%81-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0))
+
+([Puchkin2_Class51] of  %D0%A1%D1%82%D1%80%D1%83%D0%BD%D0%BD%D1%8B%D0%B9
+
+	(%D0%92%D0%B8%D0%B4+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0 %D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0))
+
+([Puchkin2_Class52] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Кишинёв")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class53] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class54])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class7])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class55])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Северный флот")
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class48]
+		[Puchkin2_Class10086]))
+
+([Puchkin2_Class54] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 2013))
+
+([Puchkin2_Class55] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Санкт-Петербург")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "Россия"))
+
+([Puchkin2_Class56] of  %D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class57])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B
+		[Puchkin2_Class19]
+		[Puchkin2_Class53])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Нашествие")
+	(%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class58]))
+
+([Puchkin2_Class57] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 2018)
+	(%D0%94%D0%B5%D0%BD%D1%8C 7)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 8))
+
+([Puchkin2_Class58] of  Open-air
+
+	(%D0%90%D0%B4%D1%80%D0%B5%D1%81 [Puchkin2_Class59])
+	(%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C 200000)
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Большое Завидово"))
+
+([Puchkin2_Class59] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Большое Завидово")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "Россия"))
+
+([Puchkin2_Class6] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "США"))
+
+([Puchkin2_Class60] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Дата альбома и группы")
+	(%3APAL-RANGE "(defrange ?gr :FRAME Группа)\n(defrange ?alb :FRAME Альбом)\n")
+	(%3APAL-STATEMENT "(forall ?gr \n        (forall ?alb\n                (=> (Альбомы ?gr ?alb)\n                    (> (Год (Дата_выпуска ?alb))\n                       (Год (Дата_возникновения ?gr))))))"))
+
+([Puchkin2_Class61] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Музыканты в группе")
+	(%3APAL-RANGE "(defrange ?gr :FRAME Группа)")
+	(%3APAL-STATEMENT "(forall ?gr    \n        (> (+ \n              (number-of-slot-values \n                                     Участники ?gr) \n              (number-of-slot-values \n                                     Бывшие_участники ?gr)\n           )\n           1\n        )\n)"))
+
+([Puchkin2_Class65] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class66])
+	(%D0%98%D0%BC%D1%8F "Андрей")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class46]
+		[Puchkin2_Class67])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class19])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class68])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Александрович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Позднухов"))
+
+([Puchkin2_Class66] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1976)
+	(%D0%94%D0%B5%D0%BD%D1%8C 7)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 11))
+
+([Puchkin2_Class67] of  %D0%9D%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+
+	(%D0%A2%D0%B8%D0%BF %D0%A0%D0%B5%D0%BF%D0%B5%D1%80))
+
+([Puchkin2_Class68] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%93%D0%BE%D1%80%D0%BE%D0%B4 "Омск")
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "СССР"))
+
+([Puchkin2_Class69] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class70])
+	(%D0%98%D0%BC%D1%8F "Антон")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class46]
+		[Puchkin2_Class67]
+		[Puchkin2_Class45])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class19])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class68])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Владимирович")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Завьялов"))
+
+([Puchkin2_Class7] of  %D0%96%D0%B0%D0%BD%D1%80
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class8])
+	(%D0%98%D1%81%D1%82%D0%BE%D0%BA%D0%B8 [Puchkin2_Class12])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class9])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class6])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Хард-рок")
+	(%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5 [Puchkin2_Class73]))
+
+([Puchkin2_Class70] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1982)
+	(%D0%94%D0%B5%D0%BD%D1%8C 1)
+	(%D0%9C%D0%B5%D1%81%D1%8F%D1%86 9))
+
+([Puchkin2_Class71] of  %D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82
+
+	(%D0%94%D0%B0%D1%82%D0%B0+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10075])
+	(%D0%98%D0%BC%D1%8F "Алексей")
+	(%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B
+		[Puchkin2_Class47]
+		[Puchkin2_Class51])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class9])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class11])
+	(%D0%9E%D1%82%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE "Николаевич")
+	(%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F "Белов"))
+
+([Puchkin2_Class72] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B [Puchkin2_Class34])
+	(%D0%91%D1%8B%D0%B2%D1%88%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8 [Puchkin2_Class48])
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class30])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class73])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class33])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Король и шут")
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class2]
+		[Puchkin2_Class38]))
+
+([Puchkin2_Class73] of  %D0%96%D0%B0%D0%BD%D1%80
+
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class74])
+	(%D0%98%D1%81%D1%82%D0%BE%D0%BA%D0%B8
+		[Puchkin2_Class4]
+		[Puchkin2_Class7])
+	(%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D1%8B [Puchkin2_Class72])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class82])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Панк-рок")
+	(%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5 [Puchkin2_Class17]))
+
+([Puchkin2_Class74] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1974))
+
+([Puchkin2_Class8] of  %D0%94%D0%B0%D1%82%D0%B0
+
+	(%D0%93%D0%BE%D0%B4 1965))
+
+([Puchkin2_Class82] of  %D0%9C%D0%B5%D1%81%D1%82%D0%BE
+
+	(%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0 "Великобритания"))
+
+([Puchkin2_Class9] of  %D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0
+
+	(%D0%91%D1%8B%D0%B2%D1%88%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8 [Puchkin2_Class71])
+	(%D0%94%D0%B0%D1%82%D0%B0_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class10])
+	(%D0%96%D0%B0%D0%BD%D1%80%D1%8B [Puchkin2_Class7])
+	(%D0%9C%D0%B5%D1%81%D1%82%D0%BE+%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F [Puchkin2_Class11])
+	(%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 "Парк Горького")
+	(%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8
+		[Puchkin2_Class71]
+		[Puchkin2_Class10074]))
